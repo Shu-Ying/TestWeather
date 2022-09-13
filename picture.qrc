@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>weather/bingbao.png</file>
+        <file>weather/lei.png</file>
+        <file>weather/leizhenyu.png</file>
+        <file>weather/qing.png</file>
+        <file>weather/shachen.png</file>
+        <file>weather/wu.png</file>
+        <file>weather/xue.png</file>
+        <file>weather/yin.png</file>
+        <file>weather/yu.png</file>
+        <file>weather/yu2.png</file>
+        <file>weather/yun.png</file>
+    </qresource>
+</RCC>
